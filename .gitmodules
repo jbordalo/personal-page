@@ -1,0 +1,4 @@
+[submodule "jbordalo.github.io"]
+	path = jbordalo.github.io
+	url = https://github.com/jbordalo/jbordalo.github.io
+	branch = master
