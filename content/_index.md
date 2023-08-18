@@ -117,14 +117,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Alexa Prize TaskBot Challenge 2 - TWIZ Team Member
+        - title: Alexa Prize TaskBot Challenge 2
           company: NOVA School of Science and Technology
           company_url: 'fct.unl.pt'
           company_logo:
           location: Portugal
           date_start: '2022-07-14'
           date_end:
-          description: Team member of team TWIZ, participating in Amazon's Alexa Prize TaskBot Challenge 2. Alexa Prize TaskBot Challenge is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
+          description: Team member of team TWIZ, participating in [Amazon's Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge). Alexa Prize TaskBot Challenge is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
     design:
       columns: '2'
   - block: experience
