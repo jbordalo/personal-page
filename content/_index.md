@@ -124,7 +124,7 @@ sections:
           location: Portugal
           date_start: '2022-07-14'
           date_end:
-          description: Team member of team TWIZ, participating in [Amazon's Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge). Alexa Prize TaskBot Challenge is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
+          description: Team member of team TWIZ, participating in Amazon's Alexa Prize TaskBot Challenge 2. [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge) is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
     design:
       columns: '2'
   - block: experience
