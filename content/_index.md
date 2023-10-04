@@ -118,13 +118,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Alexa Prize TaskBot Challenge 2
-          company: NOVA School of Science and Technology
-          company_url: 'fct.unl.pt'
-          company_logo:
+          company: NOVA School of Science and Technology | FCT NOVA
+          company_url: 'https://fct.unl.pt'
+          company_logo: alexa_prize
           location: Portugal
           date_start: '2022-07-14'
-          date_end:
-          description: Team member of team TWIZ, participating in Amazon's Alexa Prize TaskBot Challenge 2. [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge) is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
+          date_end: '2023-10-03'
+          description: Team member of team TWIZ, winning team in Amazon's Alexa Prize TaskBot Challenge 2, working on visual dialogue and coherent image generation. [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge) is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
+        - title: NOVASearch Researcher
+          company: NOVA School of Science and Technology | FCT NOVA
+          company_url: 'https://wiki.novasearch.org/'
+          company_logo: novasearch
+          location: Portugal
+          date_start: '2022-07-14'
+          date_end: ''
+          description: Member of the NOVASearch research group at NOVA School of Science and Technology | FCT NOVA, focused on multimodal systems, visual dialogue, and coherent image generation.
     design:
       columns: '2'
   - block: experience
