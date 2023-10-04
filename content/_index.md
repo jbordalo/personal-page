@@ -155,7 +155,7 @@ sections:
           location: Portugal
           date_start: '2021-03-01'
           date_end: '2021-07-31'
-          description: Frontend Developing (Vue.js).
+          description: Frontend Developer (Vue.js).
     design:
       columns: '2'
   # - block: markdown
