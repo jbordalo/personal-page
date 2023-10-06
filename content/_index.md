@@ -158,6 +158,53 @@ sections:
           description: Frontend Developer (Vue.js).
     design:
       columns: '2'
+  - block: accomplishments
+    id: awards
+    content:
+      title: Awards and Others
+      date_format: Jan 2, 2006
+      items:
+        - title: 1st place in the Alexa Prize TaskBot Challenge 2
+          organization: Amazon Science
+          organization_url: 'https://www.amazon.science/'
+          url: 'https://www.amazon.science/alexa-prize/taskbot-challenge/2022'
+          #company_logo: alexa_prize
+          date_start: '2023-10-03'
+          description: Member of the winning team TWIZ in the Alexa Prize TaskBot Challenge 2.
+        - title: NOVA Young Talent Award
+          organization: NOVA School of Science and Technology | FCT NOVA
+          organization_url: 'https://fct.unl.pt'
+          certificate_url: 'certificates/nova_award.pdf'
+          #logo: nova
+          #location: Portugal
+          date_start: '2021-05-18'
+          description: The "NOVA Young Talent Awards" honor the students which stood out in the 1st year of their Bachelor Degree or Integrated Masters at NOVA. The award is given to the students with highest average in the first year of their respective course.
+  - block: accomplishments
+    id: volunteering
+    content:
+      title: Conferences
+      date_format: Jan 2, 2006
+      items:
+        - title: ACM Multimedia 2022
+          organization: ACM Multimedia
+          organization_url: 'https://2022.acmmm.org/'
+          certificate_url: 'certificates/acmmm22_certificate.pdf'
+          date_start: '2022-10-10'
+          date_end: '2022-10-14'
+          description: Volunteer at ACM Multimedia 2022.
+        - title: DisCoTec 2023
+          organization: DisCoTec
+          organization_url: 'http://www.discotec.org/2023/'
+          certificate_url: 'certificates/discotec_certificate.pdf'
+          date_start: '2023-06-19'
+          date_end: '2023-06-23'
+          description: Volunteer at DisCoTec 2023.
+        - title: EXPO Faculdade de Ciências e Tecnologias 2023
+          organization: NOVA School of Science and Technology | FCT NOVA
+          organization_url: 'https://fct.unl.pt'
+          certificate_url: 'certificates/expo_certificate.pdf'
+          date_start: '2022-04-19'
+          description: Volunteer at EXPO Faculdade de Ciências e Tecnologias 2023.
   # - block: markdown
   #   content:
   #     title: Gallery
