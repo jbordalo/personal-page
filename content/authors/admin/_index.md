@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc Student
+role: MSc Graduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,21 +22,20 @@ organizations:
     url: https://fct.unl.pt/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student at NOVA School of Science and Technology.
+bio: MSc Graduate from NOVA School of Science and Technology.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Natural Language Processing
-  - Computer Vision
-  - Multimodal Learning
+  - Distributed Systems
+  - Self-Managing Systems
 
 # Education to show in About widget
 education:
   courses:
     - course: MSc in Computer Science and Engineering
       institution: NOVA School of Science and Technology
-      year: 2021-Present
+      year: 2021-2023
     - course: BSc in Computer Science and Engineering
       institution: NOVA School of Science and Technology
       year: 2018-2021
@@ -63,7 +62,7 @@ social:
     link: https://github.com/jbordalo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/joao-bordalo-03911b262/
+    link: https://www.linkedin.com/in/jbordalo/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -78,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-João Bordalo is a 5th year MSc Student at NOVA School of Science and Technology. Currently researching Multimodal Dialog and Factual Consistency in the context of Conversational Assistants.
+João Bordalo is an MSc Graduate from NOVA School of Science and Technology. Currently researching the applications of machine learning for the self-management of complex distributed systems.
 {style="text-align: justify;"}

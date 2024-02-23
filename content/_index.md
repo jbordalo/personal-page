@@ -96,7 +96,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Papers
       filters:
         folders:
           - publication
@@ -107,7 +107,7 @@ sections:
   - block: experience
     id: projects
     content:
-      title: Academic Projects
+      title: Academic Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -131,7 +131,7 @@ sections:
           company_logo: novasearch
           location: Portugal
           date_start: '2022-07-14'
-          date_end: ''
+          date_end: '2023-12-21'
           description: Member of the NOVASearch research group at NOVA School of Science and Technology | FCT NOVA, focused on multimodal systems, visual dialogue, and coherent image generation.
     design:
       columns: '2'
@@ -182,7 +182,7 @@ sections:
   - block: accomplishments
     id: volunteering
     content:
-      title: Conferences
+      title: Volunteering
       date_format: Jan 2, 2006
       items:
         - title: ACM Multimedia 2022

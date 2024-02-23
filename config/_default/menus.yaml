@@ -7,7 +7,7 @@ main:
   #- name: Home
   #  url: '#about'
   #  weight: 10
-  - name: Publications
+  - name: Papers
     url: '#publications'
     weight: 20
   - name: Projects
@@ -19,7 +19,7 @@ main:
   - name: Awards
     url: '#awards'
     weight: 50
-  - name: Conferences
+  - name: Volunteering
     url: '#volunteering'
     weight: 60
   - name: Contact
