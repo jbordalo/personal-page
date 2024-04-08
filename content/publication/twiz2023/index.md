@@ -1,5 +1,5 @@
 ---
-title: 'TWIZ: The Wizard of Multimodal Conversational-Stimulus'
+title: 'TWIZ-v2: The Wizard of Multimodal Conversational-Stimulus'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -49,7 +49,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Amazon Science
-  url: https://www.amazon.science/alexa-prize/proceedings/twiz-a-conversational-task-wizard-with-multimodal-curiosity-exploration
+  url: https://www.amazon.science/alexa-prize/proceedings/twiz-the-wizard-of-multimodal-conversational-stimulus
 - name: arXiv
   url: https://arxiv.org/abs/2310.02118
 
