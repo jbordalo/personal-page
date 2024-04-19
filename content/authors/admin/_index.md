@@ -79,5 +79,5 @@ email: ''
 highlight_name: true
 ---
 
-João Bordalo is a PhD Student from NOVA School of Science and Technology. Currently researching the applications of machine learning for the self-management of complex distributed systems.
+João Bordalo is a Computer Science PhD Student at NOVA School of Science and Technology. Currently researching the applications of machine learning for the self-management of complex distributed systems.
 {style="text-align: justify;"}
