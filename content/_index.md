@@ -133,6 +133,14 @@ sections:
           date_start: '2022-07-14'
           date_end: '2023-12-21'
           description: Member of the NOVASearch research group at NOVA School of Science and Technology | FCT NOVA, focused on multimodal systems, visual dialogue, and coherent image generation.
+        - title: NOVA LINCS Researcher
+          company: NOVA School of Science and Technology | FCT NOVA
+          company_url: 'https://nova-lincs.di.fct.unl.pt/'
+          company_logo: novalincs
+          location: Portugal
+          date_start: '2024-04-09'
+          date_end: ''
+          description: Member of the NOVA LINCS Computer Systems Group at NOVA School of Science and Technology | FCT NOVA, focused on the self-management of distributed systems.  
     design:
       columns: '2'
   - block: experience
@@ -203,8 +211,14 @@ sections:
           organization: NOVA School of Science and Technology | FCT NOVA
           organization_url: 'https://fct.unl.pt'
           certificate_url: 'certificates/expo_certificate.pdf'
-          date_start: '2022-04-19'
+          date_start: '2023-04-19'
           description: Volunteer at EXPO Faculdade de Ciências e Tecnologias 2023.
+        - title: EXPO Faculdade de Ciências e Tecnologias 2024
+          organization: NOVA School of Science and Technology | FCT NOVA
+          organization_url: 'https://fct.unl.pt'
+          #certificate_url: 'certificates/expo_certificate.pdf'
+          date_start: '2024-04-10'
+          description: Volunteer at EXPO Faculdade de Ciências e Tecnologias 2024.
   # - block: markdown
   #   content:
   #     title: Gallery

@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc Graduate
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://fct.unl.pt/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc Graduate from NOVA School of Science and Technology.
+bio: PhD Student from NOVA School of Science and Technology.
 
 # Interests to show in About widget
 interests:
@@ -33,6 +33,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    #- course: PhD in Computer Science
+    #  institution: NOVA School of Science and Technology
     - course: MSc in Computer Science and Engineering
       institution: NOVA School of Science and Technology
       year: 2021-2023
@@ -77,5 +79,5 @@ email: ''
 highlight_name: true
 ---
 
-João Bordalo is an MSc Graduate from NOVA School of Science and Technology. Currently researching the applications of machine learning for the self-management of complex distributed systems.
+João Bordalo is a PhD Student from NOVA School of Science and Technology. Currently researching the applications of machine learning for the self-management of complex distributed systems.
 {style="text-align: justify;"}
