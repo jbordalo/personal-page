@@ -125,22 +125,22 @@ sections:
           date_start: '2022-07-14'
           date_end: '2023-10-03'
           description: Team member of team TWIZ, winning team in Amazon's Alexa Prize TaskBot Challenge 2, working on visual dialogue and coherent image generation. [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge) is a university challenge focused on developing multimodal (voice, text, and touch) conversational agents that assist customers in completing tasks requiring multiple steps and decisions.
-        - title: NOVASearch Researcher
-          company: NOVA School of Science and Technology | FCT NOVA
+        - title: NOVA LINCS Researcher
+          company: NOVA Laboratory for Computer Science and Informatics
           company_url: 'https://wiki.novasearch.org/'
-          company_logo: novasearch
+          company_logo: novalincs
           location: Portugal
           date_start: '2022-07-14'
           date_end: '2023-12-21'
-          description: Member of the NOVASearch research group at NOVA School of Science and Technology | FCT NOVA, focused on multimodal systems, visual dialogue, and coherent image generation.
+          description: Member of the NOVA LINCS Multimodal Systems Group at NOVA School of Science and Technology | FCT NOVA. Conducted my MSc dissertation, entitled "Visual Dialogue for Open Tasks", focused on multimodal systems, visual dialogue, and coherent image sequence generation.
         - title: NOVA LINCS Researcher
-          company: NOVA School of Science and Technology | FCT NOVA
+          company: NOVA Laboratory for Computer Science and Informatics
           company_url: 'https://nova-lincs.di.fct.unl.pt/'
           company_logo: novalincs
           location: Portugal
           date_start: '2024-04-09'
           date_end: ''
-          description: Member of the NOVA LINCS Computer Systems Group at NOVA School of Science and Technology | FCT NOVA, focused on the self-management of distributed systems.  
+          description: Member of the NOVA LINCS Computer Systems Group at NOVA School of Science and Technology | FCT NOVA, researching the self-management of distributed systems.
     design:
       columns: '2'
   - block: experience
