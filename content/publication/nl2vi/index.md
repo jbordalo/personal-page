@@ -12,11 +12,6 @@ authors:
   - Idan Szpektor
   - João Magalhães
 
-# Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-
 date: '2023-05-24T00:00:00Z'
 doi: '10.48550/arXiv.2305.15026'
 

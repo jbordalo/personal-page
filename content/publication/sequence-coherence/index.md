@@ -49,6 +49,8 @@ featured: false
 links:
 - name: arXiv
   url: 'https://arxiv.org/abs/2405.10122'
+- name: 'Official Page'
+  url: 'https://novasearch.github.io/generating-coherent-sequences/'
 
 url_pdf: 'publication/sequence-coherence/2405.10122.pdf'
 url_code: ''
