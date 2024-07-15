@@ -117,6 +117,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: TaRDIS - Trustworthy And Resilient Decentralised Intelligence For Edge Systems
+          company: NOVA Laboratory for Computer Science and Informatics
+          company_url: 'https://nova-lincs.di.fct.unl.pt/'
+          company_logo: tardis
+          location: Portugal
+          date_start: '2024-07-15'
+          date_end: ''
+          description: Member of the <a target="_blank" href="https://www.project-tardis.eu/">TaRDIS project</a>, working on the self-management of distributed sysyems. TaRDIS’s primary goal is to significantly ease the complexity and reduce the effort of building correct and efficient heterogeneous swarms. TaRDIS focuses on supporting the correct and efficient development of applications for swarms and decentralised distributed systems, by combining a novel programming paradigm with a toolbox for supporting the development and execution of applications.
+        - title: NOVA LINCS Researcher
+          company: NOVA Laboratory for Computer Science and Informatics
+          company_url: 'https://nova-lincs.di.fct.unl.pt/'
+          company_logo: novalincs
+          location: Portugal
+          date_start: '2024-04-09'
+          date_end: ''
+          description: Member of the NOVA LINCS Computer Systems Group at NOVA School of Science and Technology | FCT NOVA, conducting my PhD and researching the self-management of distributed systems.
         - title: Alexa Prize TaskBot Challenge 2
           company: NOVA School of Science and Technology | FCT NOVA
           company_url: 'https://fct.unl.pt'
@@ -133,14 +149,6 @@ sections:
           date_start: '2022-07-14'
           date_end: '2023-12-21'
           description: Member of the NOVA LINCS Multimodal Systems Group at NOVA School of Science and Technology | FCT NOVA. Conducted my MSc dissertation, entitled "Visual Dialogue for Open Tasks", focused on multimodal systems, visual dialogue, and coherent image sequence generation.
-        - title: NOVA LINCS Researcher
-          company: NOVA Laboratory for Computer Science and Informatics
-          company_url: 'https://nova-lincs.di.fct.unl.pt/'
-          company_logo: novalincs
-          location: Portugal
-          date_start: '2024-04-09'
-          date_end: ''
-          description: Member of the NOVA LINCS Computer Systems Group at NOVA School of Science and Technology | FCT NOVA, researching the self-management of distributed systems.
     design:
       columns: '2'
   - block: experience

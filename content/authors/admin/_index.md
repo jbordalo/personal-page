@@ -35,6 +35,7 @@ education:
   courses:
     #- course: PhD in Computer Science
     #  institution: NOVA School of Science and Technology
+    #  year: 2024-
     - course: MSc in Computer Science and Engineering
       institution: NOVA School of Science and Technology
       year: 2021-2023
