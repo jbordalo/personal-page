@@ -180,19 +180,23 @@ sections:
       title: Awards and Others
       date_format: Jan 2, 2006
       items:
+        - title: PhD Studentship
+          organization: FCT - Fundação para a Ciência e Tecnologia
+          organization_url: 'https://www.fct.pt'
+          url: 'https://www.fct.pt/en/concursos/concurso-bolsas-de-doutoramento-2024-linha-de-candidatura-geral-1-1'
+          date_start: '2025-01-01'
+          date_end: '2029-01-01'
+          description: To fulfil its aim of promoting a national public policy for advanced training with social relevance and impact, the Fundação para a Ciência e a Tecnologia, I.P. (FCT) opens a Call for granting PhD studentships.
         - title: 1st place in the Alexa Prize TaskBot Challenge 2
           organization: Amazon Science
           organization_url: 'https://www.amazon.science/'
           url: 'https://www.amazon.science/alexa-prize/taskbot-challenge/2022'
-          #company_logo: alexa_prize
           date_start: '2023-10-03'
           description: Member of the winning team TWIZ in the Alexa Prize TaskBot Challenge 2.
         - title: NOVA Young Talent Award
           organization: NOVA School of Science and Technology | FCT NOVA
           organization_url: 'https://fct.unl.pt'
           certificate_url: 'certificates/nova_award.pdf'
-          #logo: nova
-          #location: Portugal
           date_start: '2021-05-18'
           description: The "NOVA Young Talent Awards" honor the students which stood out in the 1st year of their Bachelor Degree or Integrated Masters at NOVA. The award is given to the students with highest average in the first year of their respective course.
   - block: accomplishments
