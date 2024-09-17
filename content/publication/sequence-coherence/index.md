@@ -55,7 +55,7 @@ links:
 url_pdf: 'publication/sequence-coherence/2405.10122.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'publication/sequence-coherence/acl2024_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
