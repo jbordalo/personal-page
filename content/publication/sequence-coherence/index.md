@@ -20,7 +20,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-05-16T00:00:00Z'
-doi: '10.48550/arXiv.2405.10122'
+doi: '10.18653/v1/2024.acl-long.690'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2023-05-24T00:00:00Z'
@@ -47,10 +47,11 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: arXiv
-  url: 'https://arxiv.org/abs/2405.10122'
+- name: 'ACL Anthology'
+  url: 'https://aclanthology.org/2024.acl-long.690/'
 - name: 'Official Page'
   url: 'https://novasearch.github.io/generating-coherent-sequences/'
+
 
 url_pdf: 'publication/sequence-coherence/2405.10122.pdf'
 url_code: ''

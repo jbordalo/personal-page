@@ -1,25 +1,23 @@
-@inproceedings{bordalo2024generating,
-  author       = {Jo{\~{a}}o Bordalo and
-                  Vasco Ramos and
-                  Rodrigo Valerio and
-                  Diogo Gl{\'{o}}ria{-}Silva and
-                  Yonatan Bitton and
-                  Michal Yarom and
-                  Idan Szpektor and
-                  Jo{\~{a}}o Magalh{\~{a}}es},
-  editor       = {Lun{-}Wei Ku and
-                  Andre Martins and
-                  Vivek Srikumar},
-  title        = {Generating Coherent Sequences of Visual Illustrations for Real-World
-                  Manual Tasks},
-  booktitle    = {Proceedings of the 62nd Annual Meeting of the Association for Computational
-                  Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand,
-                  August 11-16, 2024},
-  pages        = {12777--12797},
-  publisher    = {Association for Computational Linguistics},
-  year         = {2024},
-  url          = {https://aclanthology.org/2024.acl-long.690},
-  timestamp    = {Mon, 26 Aug 2024 16:40:52 +0200},
-  biburl       = {https://dblp.org/rec/conf/acl/BordaloRVGBYSM24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{bordalo-etal-2024-generating,
+    title = "Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks",
+    author = "Bordalo, Jo{\~a}o  and
+      Ramos, Vasco  and
+      Val{\'e}rio, Rodrigo  and
+      Gl{\'o}ria-Silva, Diogo  and
+      Bitton, Yonatan  and
+      Yarom, Michal  and
+      Szpektor, Idan  and
+      Magalhaes, Joao",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.690",
+    doi = "10.18653/v1/2024.acl-long.690",
+    pages = "12777--12797",
+    abstract = "Multistep instructions, such as recipes and how-to guides, greatly benefit from visual aids, such as a series of images that accompany the instruction steps. While Large Language Models (LLMs) have become adept at generating coherent textual steps, Large Vision/Language Models (LVLMs) are less capable of generating accompanying image sequences. The most challenging aspect is that each generated image needs to adhere to the relevant textual step instruction, as well as be visually consistent with earlier images in the sequence. To address this problem, we propose an approach for generating consistent image sequences, which integrates a Latent Diffusion Model (LDM) with an LLM to transform the sequence into a caption to maintain the semantic coherence of the sequence. In addition, to maintain the visual coherence of the image sequence, we introduce a copy mechanism to initialise reverse diffusion processes with a latent vector iteration from a previously generated image from a relevant step. Both strategies will condition the reverse diffusion process on the sequence of instruction steps and tie the contents of the current image to previous instruction steps and corresponding images. Experiments show that the proposed approach is preferred by humans in 46.6{\%} of the cases against 26.6{\%} for the second best method. In addition, automatic metrics showed that the proposed method maintains semantic coherence and visual consistency across steps in both domains.",
 }
